@@ -1,4 +1,4 @@
-# Hi, I'm Myvizhikannan Kanagaraj 👋
+# Hi, I'm Myvizhikannan Kanagaraj 
 
 **Java Full Stack Developer | Backend & REST API Enthusiast | Trichy, Tamil Nadu**
 
