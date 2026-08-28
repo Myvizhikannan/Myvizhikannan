@@ -46,17 +46,6 @@ Full-stack project management tool with task boards, milestones, and team collab
 
 ---
 
-### 📊 GitHub Stats
-
-![Myvizhikannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myvizhikannan&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myvizhikannan&layout=compact)
-
-### 🧩 LeetCode Stats
-
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Myvizhikannan)
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/myvizhi-k)
